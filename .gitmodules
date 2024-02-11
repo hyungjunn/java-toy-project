@@ -1,0 +1,4 @@
+[submodule "java-baseball"]
+	path = java-baseball
+	url = https://github.com/hyungjunn/java-baseball-playground.git
+	branch = hyungjunn
